@@ -1,0 +1,7 @@
+folium
+matplotlib
+mapclassify
+contextily==1.5.0
+pyjanitor
+siuba==0.4.4
+plotnine==0.12.4
